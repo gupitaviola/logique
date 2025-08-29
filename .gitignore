@@ -1,0 +1,15 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test/exampes/
+
+# Misc
+.env
+package-lock.json
+allure-report/
+allure-results/
+.DS_Store
